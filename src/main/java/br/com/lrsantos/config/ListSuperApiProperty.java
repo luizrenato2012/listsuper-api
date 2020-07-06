@@ -14,7 +14,5 @@ public class ListSuperApiProperty {
 	public void setOrigemPermitida(String origemPermitida) {
 		this.origemPermitida = origemPermitida;
 	}
-	
-	
 
 }
